@@ -4,8 +4,6 @@ Piwigo is a photo gallery software for the web that comes with powerful features
 
 This version is based on linuxserver/piwigo but includes the mediainfo and ffmpeg libraries.
 
-[![piwigo](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/piwigo-banner.png)][appurl]
-
 ## Usage
 
 ```
