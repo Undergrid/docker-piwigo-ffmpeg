@@ -14,7 +14,7 @@ docker create \
 -e PGID=<gid> -e PUID=<uid>  \
 -e TZ=<timezone> \
 -p 80:80 \
-linuxserver/piwigo
+undergrid/piwigo-ffmpeg
 ```
 
 ## Parameters
