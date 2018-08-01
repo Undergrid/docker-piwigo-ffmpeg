@@ -54,4 +54,7 @@ Self-signed keys are generated the first time you run the container and can be f
 
 The easiest way to edit the configuration file is to enable local files editor from the plugins page and use it to configure email settings etc....
 
+### Version History
 
+1.1 - Added exiftool required by latest Piwigo
+1.0 - Initial Release
